@@ -2,3 +2,21 @@ body {
 background-color: #333;
 
 }
+#Logo
+{
+  position: relative;
+  background-color: #d3d3d3;
+    height: 200px;
+}
+#text{
+ background-color: #e3e6e8
+   position: left;
+  bottom: 10px;
+  top: 10xp;
+
+   
+}
+#photo{
+}
+#bot{
+}
